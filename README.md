@@ -19,7 +19,7 @@ A model to recommend similar movies using both **Collaborative Filtering and Con
 ### End-End ML Project
 
 - [Marriage_Prediction](https://github.com/sasikala07/Portfolio/tree/main/End-End%20Project) :
-A Model build using **RandomForest Regresion algorithm** and hosted local **REST API** with **Flask** web-server for predicting your **Year of Marriage**. Deployed public API to **AWS EC2 server** and launch website service. [Website Link](http://3.140.249.198/).Given below is the image that shows year of marriage.
+A Model build using **RandomForest Regresion algorithm** and hosted local **REST API** with **Flask** web-server for predicting your **Year of Marriage**. Deployed public API to **AWS EC2 server** and launch website service. [http://3.140.249.198/](http://3.140.249.198/).Given below is the image that shows year of marriage.
 
    ![Screenshot from 2021-12-07 11-13-17](https://user-images.githubusercontent.com/72785420/145705801-57c20395-8c27-4dd1-bd2b-ce7a1349995e.png)
 
