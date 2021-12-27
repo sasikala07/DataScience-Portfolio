@@ -1,6 +1,6 @@
 # DataScience Portfolio
 
-Repository containing portfolio of data science project presented in the form of **iPython Notebooks**,completed by me for **Training** purposes and still learning and working.
+Repository containing portfolio of data science project presented in the form of **iPython Notebooks**,completed by me for self learning and **Training** purposes,still learning and working.
 
 
 ### ML_Micro_Projects
