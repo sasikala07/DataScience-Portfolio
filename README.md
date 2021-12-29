@@ -23,7 +23,7 @@ A model to recommend similar movies and find most watched movies and tvshows usi
 # End-End ML Project
 
 - [Marriage_Prediction](https://github.com/sasikala07/Portfolio/tree/main/End-End%20Project) :
-A Model build using RandomForest Regresion algorithm and hosted local ***REST API*** with **Flask** web-server for predicting your Year of Marriage. Deployed public API to ***AWS EC2 server*** and launch website service. [http://3.140.249.198/](http://3.140.249.198/).Given below is the image that shows year of marriage.
+A Model build using RandomForest Regresion algorithm and hosted local REST API with Flask web-server for predicting your Year of Marriage. Deployed public API to AWS EC2 server and launch website service. [http://3.140.249.198/](http://3.140.249.198/).Given below is the image that shows year of marriage.
 
 ||                                                        |
 |----|----|
