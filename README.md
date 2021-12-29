@@ -3,7 +3,7 @@
 Repository containing portfolio of data science project presented in the form of **iPython Notebooks**,completed by me for self learning and **Training** purposes.Still learning and working.
 
 
-### ML_Micro_Projects
+# ML_Micro_Projects
 
 - [HealthCare_Prediction](https://github.com/sasikala07/Portfolio/blob/main/Ml_micro_project/healthcare_stroke_detection.ipynb) :
 A model to predict whether the pateint likely to get stroke or not.Identified the best **F1 Score** model to get accurate result in prediction.perform data visualization using **matplotlib and seaborn**.
@@ -17,14 +17,14 @@ Preprocessing.
 
 
 
-### End-End ML Project
+# End-End ML Project
 
 - [Marriage_Prediction](https://github.com/sasikala07/Portfolio/tree/main/End-End%20Project) :
 A Model build using **RandomForest Regresion algorithm** and hosted local **REST API** with **Flask** web-server for predicting your **Year of Marriage**. Deployed public API to **AWS EC2 server** and launch website service. [http://3.140.249.198/](http://3.140.249.198/).Given below is the image that shows year of marriage.
 
    ![Screenshot from 2021-12-07 11-13-17](https://user-images.githubusercontent.com/72785420/145705801-57c20395-8c27-4dd1-bd2b-ce7a1349995e.png)
 
-### DL_PROJECT
+# DL_PROJECT
 
 - [ChatBot](https://github.com/sasikala07/Portfolio/tree/main/DL_project):
 A Model using **tensorflow.Keras** build a basic ChatBot GUI with tkinter. Import **nltk** and lemmatize each words,compile the model with **stochastic gradient descent** and predict output intent with **softmax**. Given below is the image shows the GUI of chatbot
