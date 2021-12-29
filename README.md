@@ -14,7 +14,8 @@ A model to analysis the feedback of Amazon musical instrument using sentiment an
 - [Imdb_Movies_recommendation](https://github.com/sasikala07/Portfolio/blob/main/Ml_micro_project/Imdb_movies_recommendation_collaborative_and%20content_based_filtering.ipynb):
 A model to recommend similar movies and find most watched movies and tvshows using both Collaborative Filtering and Content Based Filtering recommendation system.Performed TFIDF Vectorize Preprocessing.
 
-||                                                        |
+#### Skills and Technologies Used in the above Projects
+|||
 |----|----|
 |Skills|Data Cleaning, data analysis, data visualization, Sentiment analysis, Recommendation System, scikit-Learn, stats, Machine Learning(Model building)|
 |Technology|Python, Pandas, Nltk, wordcloud, Matplotlib, Seaborn, Oversampling-SMOTE, ML-algm(LogisticRegression)|
@@ -25,7 +26,8 @@ A model to recommend similar movies and find most watched movies and tvshows usi
 - [Marriage_Prediction](https://github.com/sasikala07/Portfolio/tree/main/End-End%20Project) :
 A Model build using RandomForest Regresion algorithm and hosted local REST API with Flask web-server for predicting your Year of Marriage. Deployed public API to AWS EC2 server and launch website service. [http://3.140.249.198/](http://3.140.249.198/).Given below is the image that shows year of marriage.
 
-||                                                        |
+#### Technologies used in this End-End Project
+|| |
 |----|----|
 |Technology|Python, Pandas, Encoder-Decoder(LabelEncoder), ML-algorithm(Ensemble Technique),AWS-EC2,RestAPI Flask|
 
@@ -41,6 +43,7 @@ A Model build using RandomForest Regresion algorithm and hosted local REST API w
 - [ChatBot](https://github.com/sasikala07/Portfolio/tree/main/DL_project):
 A Model using tensorflow.Keras build a basic ChatBot GUI with tkinter. Import nltk and lemmatize each words,compile the model with stochastic gradient descent and predict output intent with softmax. Given below is the image shows the GUI of chatbot.
 
+#### Technology used in this chatbot project
 ||                                                        |
 |----|----|
 |Technology|Python, Pandas, Pickle, Tensorflow-Keras,Stochastic Gradient Descent,tkinter GUI|
