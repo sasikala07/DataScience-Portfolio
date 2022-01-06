@@ -29,7 +29,7 @@ A Model build using RandomForest Regresion algorithm and hosted local REST API w
 #### Technologies used in this End-End Project
 || |
 |----|----|
-|Technology|Python, Pandas, Encoder-Decoder(LabelEncoder), ML-algorithm(Ensemble Technique),AWS-EC2,RestAPI Flask|
+|Technology|Python, Pandas, Encoder-Decoder(LabelEncoder), ML-algorithm(Randomforest Regression),AWS-EC2,RestAPI Flask|
 
 
    ![Screenshot from 2021-12-07 11-13-17](https://user-images.githubusercontent.com/72785420/145705801-57c20395-8c27-4dd1-bd2b-ce7a1349995e.png)
