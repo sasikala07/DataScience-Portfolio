@@ -11,6 +11,8 @@ A model to predict whether the pateint likely to get stroke or not.Identified th
 - [Amazon_Musical_Instrument_analysis](https://github.com/sasikala07/Portfolio/blob/main/Ml_micro_project/Amazon_musical_instrument_sentiment_analysis.ipynb):
 A model to analysis the feedback of Amazon musical instrument using sentiment analysis.Identified the most used words and handle imbalanced data using SMOTE oversampling.Build Model which has highest accuracy in classifying the feedback as positive,Negative and neutral.
 
+- [Aus_Weather_Forecasting_prediction](https://github.com/sasikala07/DataScience-Portfolio/blob/main/Ml_micro_project/AUS_weather%20_prediction.ipynb): A model to analysis the australia's weather forecasting and predicting tommorrow rainfall with best accuracy.
+
 - [Imdb_Movies_recommendation](https://github.com/sasikala07/Portfolio/blob/main/Ml_micro_project/Imdb_movies_recommendation_collaborative_and%20content_based_filtering.ipynb):
 A model to recommend similar movies and find most watched movies and tvshows using both Collaborative Filtering and Content Based Filtering recommendation system.Performed TFIDF Vectorize Preprocessing.
 
@@ -18,7 +20,7 @@ A model to recommend similar movies and find most watched movies and tvshows usi
 |||
 |----|----|
 |Skills|Data Cleaning, data analysis, data visualization, Sentiment analysis, Recommendation System, scikit-Learn, stats, Machine Learning(Model building)|
-|Technology|Python, Pandas, Nltk, wordcloud, Matplotlib, Seaborn, Oversampling-SMOTE, ML-algm(LogisticRegression)|
+|Technology|Python, Pandas, Nltk, wordcloud, Matplotlib, Seaborn, Oversampling-SMOTE, ML-algm(LogisticRegression,RandomForest)|
 
 
 # End-End ML Project
